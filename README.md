@@ -40,14 +40,12 @@
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anirudhys123&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhys123&theme=radical&hide_border=false" alt="GitHub Streak" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhys123&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="400"/>
 </div>
 
 ---
 
-# 📈 Visitor Count:
-[![](https://visitcount.itsvg.in/api?id=anirudhys123&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
+
 
 ---
 
