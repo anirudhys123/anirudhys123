@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a passionate **Front-End Developer** dedicated to crafting sleek and functional web interfaces. I thrive on challenges and love learning new technologies to stay ahead in the game. Let's build something amazing together! 🌟
+👋 Hi there! I'm a passionate **MERN Stack Developer** dedicated to crafting sleek and functional web interfaces. I thrive on challenges and love learning new technologies to stay ahead in the game. Let's build something amazing together! 🌟
 
 ---
 
