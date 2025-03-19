@@ -18,7 +18,8 @@
 
 ### 🚀 Connect with Me:
 <p align="left">
-<a href="https://linkedin.com/in/sai-anirudh-yellapragada" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/></a>
+<a href="https://www.linkedin.com/in/sai-anirudh-yellapragada-b82262207/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/></a>
 </p>
 
 ---
@@ -61,13 +62,6 @@
 ### 🏆 GitHub Trophies:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anirudhys123&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📈 GitHub Streak:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhys123&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
