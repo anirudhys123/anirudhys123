@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://anirudh-yellapragada.vercel.app/](https://anirudh-yellapragada.vercel.app/)
 
-- 📫 How to reach me **saianirudh643@gmaol.com**
+- 📫 How to reach me **saianirudh643@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
