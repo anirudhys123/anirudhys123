@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anirudh-yellapragada&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=anirudhys123&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -46,28 +46,28 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anirudh-yellapragada&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anirudhys123&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 🔥 Top Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh-yellapragada&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhys123&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anirudh-yellapragada&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anirudhys123&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ### 📈 GitHub Streak:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudh-yellapragada&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhys123&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
