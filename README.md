@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me:
 - 🚀 I specialize in **Full Stack Development (MERN Stack)**, building **scalable, high-performance web applications**.  
-- 🌱 Currently learning **Generative AI and Data Science**  to expand my skill set.  
+- 🌱 Currently learning **Generative AI and Data Analytics**  to expand my skill set.  
 - 🎯 Actively looking for **internship opportunities** in startups where I can contribute and grow.  
 - 💻 All my projects are available at [My Portfolio](https://anirudh-yellapragada.vercel.app/)  
 - 📫 Reach me at **saianirudh643@gmail.com**  
